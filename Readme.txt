@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+Esse foi meu primeiro Portifolio feito em um projeto da faculdade, onde contem o inicio de minha trajetoria, ele terá  que sofre umas alteraçoes kkk
+Pois hoje estou no caminho de me tornar uma desenvolvedora Mobile usando o nosso mais querido Flutter!!
 
-Template Name: Personal
-Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Ainda vou atualizar esse portifolio.
